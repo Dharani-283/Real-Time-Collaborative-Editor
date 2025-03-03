@@ -1,4 +1,4 @@
-#Chat-Application
+#Real-Time Collaborative Editor
 
 COMPANY'S NAME: CODTECH IT SOLUTIONS
 
